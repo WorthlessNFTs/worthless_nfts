@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/worthless_nfts/static/js/main.78638634.chunk.js",
-    "main.js.map": "/worthless_nfts/static/js/main.78638634.chunk.js.map",
+    "main.js": "/worthless_nfts/static/js/main.708b1219.chunk.js",
+    "main.js.map": "/worthless_nfts/static/js/main.708b1219.chunk.js.map",
     "runtime-main.js": "/worthless_nfts/static/js/runtime-main.943c88e3.js",
     "runtime-main.js.map": "/worthless_nfts/static/js/runtime-main.943c88e3.js.map",
     "static/css/2.5b662126.chunk.css": "/worthless_nfts/static/css/2.5b662126.chunk.css",
@@ -12,12 +12,15 @@
     "index.html": "/worthless_nfts/index.html",
     "static/css/2.5b662126.chunk.css.map": "/worthless_nfts/static/css/2.5b662126.chunk.css.map",
     "static/js/2.772105b3.chunk.js.LICENSE.txt": "/worthless_nfts/static/js/2.772105b3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/worthless_nfts/static/media/roboto-mono-vietnamese-400-normal.baa5de8f.woff2"
+    "static/media/Roadmap.10010599.png": "/worthless_nfts/static/media/Roadmap.10010599.png",
+    "static/media/Worthless.c595bf0a.png": "/worthless_nfts/static/media/Worthless.c595bf0a.png",
+    "static/media/index.css": "/worthless_nfts/static/media/roboto-mono-vietnamese-400-normal.baa5de8f.woff2",
+    "static/media/dev.063c143e.png": "/worthless_nfts/static/media/dev.063c143e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.943c88e3.js",
     "static/css/2.5b662126.chunk.css",
     "static/js/2.772105b3.chunk.js",
-    "static/js/main.78638634.chunk.js"
+    "static/js/main.708b1219.chunk.js"
   ]
 }
