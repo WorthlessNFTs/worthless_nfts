@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/worthless_nfts/static/js/main.6cda068c.chunk.js",
+    "main.js.map": "/worthless_nfts/static/js/main.6cda068c.chunk.js.map",
+    "runtime-main.js": "/worthless_nfts/static/js/runtime-main.677942ea.js",
+    "runtime-main.js.map": "/worthless_nfts/static/js/runtime-main.677942ea.js.map",
+    "static/js/2.7b6c58eb.chunk.js": "/worthless_nfts/static/js/2.7b6c58eb.chunk.js",
+    "static/js/2.7b6c58eb.chunk.js.map": "/worthless_nfts/static/js/2.7b6c58eb.chunk.js.map",
+    "static/js/3.b950c7dc.chunk.js": "/worthless_nfts/static/js/3.b950c7dc.chunk.js",
+    "static/js/3.b950c7dc.chunk.js.map": "/worthless_nfts/static/js/3.b950c7dc.chunk.js.map",
+    "index.html": "/worthless_nfts/index.html",
+    "static/js/2.7b6c58eb.chunk.js.LICENSE.txt": "/worthless_nfts/static/js/2.7b6c58eb.chunk.js.LICENSE.txt",
+    "static/media/logo.034ef726.svg": "/worthless_nfts/static/media/logo.034ef726.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677942ea.js",
+    "static/js/2.7b6c58eb.chunk.js",
+    "static/js/main.6cda068c.chunk.js"
+  ]
+}
