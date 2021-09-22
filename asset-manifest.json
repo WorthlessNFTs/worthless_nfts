@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.js": "/worthless_nfts/static/js/main.cd782a56.chunk.js",
-    "main.js.map": "/worthless_nfts/static/js/main.cd782a56.chunk.js.map",
-    "runtime-main.js": "/worthless_nfts/static/js/runtime-main.76ae99e2.js",
-    "runtime-main.js.map": "/worthless_nfts/static/js/runtime-main.76ae99e2.js.map",
+    "main.js": "/worthless_nfts/static/js/main.dbd97216.chunk.js",
+    "main.js.map": "/worthless_nfts/static/js/main.dbd97216.chunk.js.map",
+    "runtime-main.js": "/worthless_nfts/static/js/runtime-main.bd15a5c0.js",
+    "runtime-main.js.map": "/worthless_nfts/static/js/runtime-main.bd15a5c0.js.map",
     "static/css/2.5b662126.chunk.css": "/worthless_nfts/static/css/2.5b662126.chunk.css",
-    "static/js/2.5d18aa37.chunk.js": "/worthless_nfts/static/js/2.5d18aa37.chunk.js",
-    "static/js/2.5d18aa37.chunk.js.map": "/worthless_nfts/static/js/2.5d18aa37.chunk.js.map",
-    "static/js/3.a31786b6.chunk.js": "/worthless_nfts/static/js/3.a31786b6.chunk.js",
-    "static/js/3.a31786b6.chunk.js.map": "/worthless_nfts/static/js/3.a31786b6.chunk.js.map",
+    "static/js/2.4a32ed7a.chunk.js": "/worthless_nfts/static/js/2.4a32ed7a.chunk.js",
+    "static/js/2.4a32ed7a.chunk.js.map": "/worthless_nfts/static/js/2.4a32ed7a.chunk.js.map",
+    "static/js/3.63350c51.chunk.js": "/worthless_nfts/static/js/3.63350c51.chunk.js",
+    "static/js/3.63350c51.chunk.js.map": "/worthless_nfts/static/js/3.63350c51.chunk.js.map",
     "index.html": "/worthless_nfts/index.html",
     "static/css/2.5b662126.chunk.css.map": "/worthless_nfts/static/css/2.5b662126.chunk.css.map",
-    "static/js/2.5d18aa37.chunk.js.LICENSE.txt": "/worthless_nfts/static/js/2.5d18aa37.chunk.js.LICENSE.txt",
+    "static/js/2.4a32ed7a.chunk.js.LICENSE.txt": "/worthless_nfts/static/js/2.4a32ed7a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/worthless_nfts/static/media/roboto-mono-vietnamese-400-normal.baa5de8f.woff2",
     "static/media/dev.063c143e.png": "/worthless_nfts/static/media/dev.063c143e.png",
     "static/media/discord.9a823ca6.svg": "/worthless_nfts/static/media/discord.9a823ca6.svg",
     "static/media/roadmap.473f4700.png": "/worthless_nfts/static/media/roadmap.473f4700.png",
+    "static/media/sample15.a69c7a34.png": "/worthless_nfts/static/media/sample15.a69c7a34.png",
+    "static/media/sample18.469667f8.png": "/worthless_nfts/static/media/sample18.469667f8.png",
     "static/media/twitter.08ef48a0.svg": "/worthless_nfts/static/media/twitter.08ef48a0.svg",
     "static/media/worthless.c595bf0a.png": "/worthless_nfts/static/media/worthless.c595bf0a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.76ae99e2.js",
+    "static/js/runtime-main.bd15a5c0.js",
     "static/css/2.5b662126.chunk.css",
-    "static/js/2.5d18aa37.chunk.js",
-    "static/js/main.cd782a56.chunk.js"
+    "static/js/2.4a32ed7a.chunk.js",
+    "static/js/main.dbd97216.chunk.js"
   ]
 }
