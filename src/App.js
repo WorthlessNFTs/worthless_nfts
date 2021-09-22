@@ -30,8 +30,17 @@ import {
   Heading,
   List,
   ListItem,
-  Link
-} from '@chakra-ui/react'
+  Link,
+  Modal,
+  ModalOverlay,
+  ModalContent,
+  ModalHeader,
+  ModalFooter,
+  ModalBody,
+  ModalCloseButton,
+  useDisclosure,
+  Lorem
+} from "@chakra-ui/react"
 import { HashLink} from 'react-router-hash-link'
 import  {BrowserRouter as Router} from 'react-router-dom'
 import { extendTheme } from "@chakra-ui/react"
@@ -40,6 +49,10 @@ import roadmap from './images/roadmap.png'
 import worthless from './images/worthless.png'
 import twitter from './images/twitter.svg'
 import discord from './images/discord.svg'
+import sample15  from './images/sample15.png'
+import sample18  from './images/sample18.png'
+import ModalImage from "react-modal-image";
+ 
 
 
 
@@ -198,14 +211,26 @@ const App = () => (
                 insult all you smooth brains. Anyone who mints one is asking to lose money.
               </Text>
               <br />
-              <Text>
-
+              <Text mb={10}>
                 But if you're still reading this then odds are you're a dumb ape, 
                 so you'll probably buy one anyway. Do so at your own risk - odds of this 
                 NFT mooning are basically minus infinity. Don't say I didn't warn you: <b><em>DO NOT MINT
                 THIS NFT</em></b> (Unless you are OK with funding my Lambo).
               
               </Text>
+              <Stack>
+                <ModalImage
+                  small={sample15}
+                  large={sample15}
+                  alt="Sample NFT"
+                />
+              <ModalImage
+                small={sample18}
+                large={sample18}
+                alt="Sample NFT"
+              />
+              </Stack>
+              {/* <Image src={sample15} width={300} height={300}/> */}
             </Box>
             <Box mb={5}>
               <Heading
